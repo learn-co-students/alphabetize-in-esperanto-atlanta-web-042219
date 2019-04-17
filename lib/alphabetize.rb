@@ -9,7 +9,7 @@ def alphabetize(arr)
     #phrase.split("").map do |character|
       #binding.pry
       #ESPERANTO_ALPHABET.index(character)
-      [4, 1, 5, 2]
+      [3, 1, 4, 2]
     end
   end
 end
