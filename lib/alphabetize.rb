@@ -6,7 +6,7 @@ def alphabetize(arr)
   # code here
   
   arr.sort_by do |phrase|
-    phrase.split("").each do |character|
+    phrase.split("").map do |character|
       #binding.pry
       ESPERANTO_ALPHABET.index(character)
       
