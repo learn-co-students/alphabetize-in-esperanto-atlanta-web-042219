@@ -3,5 +3,5 @@ require "pry"
 def alphabetize(arr)
   # code here
   key = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
-  binding.pry
+  #binding.pry
 end
