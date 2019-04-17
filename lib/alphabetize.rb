@@ -1,8 +1,10 @@
 require "pry"
 
+key = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+
 def alphabetize(arr)
   # code here
-  key = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+  
   arr.sort_by do |string|
     
 end
