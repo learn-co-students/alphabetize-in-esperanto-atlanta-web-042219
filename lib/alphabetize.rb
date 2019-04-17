@@ -1,6 +1,6 @@
+require "pry"
 
-
-def alphabetize(exp)
+def alphabetize(arr)
   # code here
   ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   
