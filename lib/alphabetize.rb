@@ -3,5 +3,6 @@ require "pry"
 def alphabetize(arr)
   # code here
   key = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
-  #binding.pry
+  arr.sort_by do |string|
+    
 end
